@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Tumor Detection with Machine Learning</title>
+    
 </head>
 <body>
     <h1>Tumor Detection with Machine Learning</h1>
